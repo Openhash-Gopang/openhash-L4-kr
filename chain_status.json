@@ -1,0 +1,11 @@
+{
+  "node_id": "KR",
+  "layer": 4,
+  "total_blocks": 1,
+  "latest_hash": "a9de7e5007008fe7a7ba0d73478d94fa45172020622830d654cf8de07788b5ed",
+  "latest_block": 0,
+  "chain_valid": true,
+  "last_verified": "2026-05-21T00:00:00Z",
+  "openhash_tx": "PENDING",
+  "ilmv_status": "NORMAL"
+}
