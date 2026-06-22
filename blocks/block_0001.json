@@ -1,0 +1,24 @@
+{
+  "block_number": 1,
+  "block_type": "HASH_CHAIN_ANCHOR",
+  "node_id": "KR",
+  "layer": 4,
+  "timestamp": "2026-06-22T10:46:44.291945+00:00",
+  "data": {
+    "entry_hash": "58d17a0ba3ff239d289900c51823131e83f9303c4fd0f679acadcb1406947b70",
+    "content_hash": "60562d962e539b108387c21965842dcd593bc61716136c76bc939b895997162f",
+    "msg_id": "phase2-test-L4",
+    "signatures": [
+      "sig1"
+    ],
+    "merkle_layer": "L4",
+    "score": 65,
+    "lcat": "C",
+    "block_height": 0,
+    "submitted_at": "2026-06-22T10:46:34.741Z"
+  },
+  "prev_hash": "a9de7e5007008fe7a7ba0d73478d94fa45172020622830d654cf8de07788b5ed",
+  "nonce": 0,
+  "openhash_tx": "CONFIRMED",
+  "hash": "b6db2f799a1335ef2a4984931403a41d4140114ec3faed9fb71e93e479dc13f3"
+}
