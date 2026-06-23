@@ -1,11 +1,11 @@
 {
   "node_id": "KR",
   "layer": 4,
-  "total_blocks": 4,
-  "latest_hash": "b18cb3d6ab2b3e0ad4d096a951268d1663d4dc8b95a3e620e385e07584a441f3",
-  "latest_block": 3,
+  "total_blocks": 5,
+  "latest_hash": "52412fb5ffa5a527d7aa94c8f2c9e7e180614cc0b1cf1e8e026aee7d8199ea6b",
+  "latest_block": 4,
   "chain_valid": true,
-  "last_verified": "2026-06-23T11:49:52.267260+00:00",
+  "last_verified": "2026-06-23T22:41:39.715911+00:00",
   "openhash_tx": "CONFIRMED",
   "ilmv_status": "NORMAL"
 }
