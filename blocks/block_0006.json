@@ -1,0 +1,24 @@
+{
+  "block_number": 6,
+  "block_type": "HASH_CHAIN_ANCHOR",
+  "node_id": "KR",
+  "layer": 4,
+  "timestamp": "2026-06-24T01:40:29.598437+00:00",
+  "data": {
+    "entry_hash": "884f1408fe5a60b20194bfb684d8b7f2c0419c79ce45837860456ce41875b017",
+    "content_hash": "3fca6587871963b41bfbaecf4dc4e0551ed54dbbc63820fdaaa665cca4b58d95",
+    "msg_id": "REG-2601db80346f-1782265224079",
+    "signatures": [
+      "2601:db80:346f:d2a6:6115:bd1a:27dd:a2b4"
+    ],
+    "merkle_layer": "L4",
+    "score": 0,
+    "lcat": "B",
+    "block_height": 1782265224,
+    "submitted_at": "2026-06-24T01:40:24.082Z"
+  },
+  "prev_hash": "41099eb752a03beb4bb269887687170b5ddd77a01a92b9ec526d9fe5beaca3a5",
+  "nonce": 0,
+  "openhash_tx": "CONFIRMED",
+  "hash": "b69157b721eec93026704d8db861e7771217ed38ade534a23d1007c67ff3dedb"
+}
